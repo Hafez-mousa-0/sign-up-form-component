@@ -1,17 +1,12 @@
 
-body {
-    height: 97vh;
-}
 .main-container {
-    height: 100%;
+    min-height: 97vh;
     width: 100%;
     background-color: hsl(0, 100%, 74%);
     background-image: url(images/bg-intro-desktop.png);
 }
 
-.items {
-    width: 400px;
-}
+
 
 
 
