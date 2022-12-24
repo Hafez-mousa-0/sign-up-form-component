@@ -1,0 +1,30 @@
+
+body {
+    height: 97vh;
+}
+.main-container {
+    height: 100%;
+    width: 100%;
+    background-color: hsl(0, 100%, 74%);
+    background-image: url(/signup-form-component/bg-intro-desktop.png);
+}
+
+.items {
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
