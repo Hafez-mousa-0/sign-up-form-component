@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-.section {
+section {
     min-height: 98vh;
     width: 100%;
     background-color: hsl(0, 100%, 74%);
